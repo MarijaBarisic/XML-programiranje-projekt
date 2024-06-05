@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<igraci>
+  <igrac>
+    <ime>Lionel</ime>
+    <prezime>Messi</prezime>
+    <datum_rodenja>1987-06-24</datum_rodenja>
+    <pozicija>Napadač</pozicija>
+    <trenutni_klub>Inter Miami</trenutni_klub>
+    <prosli_klubovi>
+     <klub>Barcelona</klub>
+     <klub>Paris Saint-Germain</klub>
+    </prosli_klubovi>
+    <statistika>
+      <broj_golova>833</broj_golova>
+      <broj_asistencija>372</broj_asistencija>
+      <broj_odigranih_utakmica>1060</broj_odigranih_utakmica>
+    </statistika>
+  </igrac>
+  <igrac>
+    <ime>Cristiano</ime>
+    <prezime>Ronaldo</prezime>
+    <datum_rodenja>1985-02-05</datum_rodenja>
+    <pozicija>Napadač</pozicija>
+    <trenutni_klub>Al-Nassr</trenutni_klub>
+    <prosli_klubovi>
+      <klub>Sporting CP</klub>
+      <klub>Manchester United</klub>
+      <klub>Real Madrid</klub>
+      <klub>Juventus</klub>
+      <klub>Sporting Lisbon</klub>
+    </prosli_klubovi>
+    <statistika>
+      <broj_golova>891</broj_golova>
+      <broj_asistencija>251</broj_asistencija>
+      <broj_odigranih_utakmica>1222</broj_odigranih_utakmica>
+    </statistika>
+  </igrac>
+  <igrac>
+    <ime>Virgil</ime>
+    <prezime>van Dijk</prezime>
+    <datum_rodenja>1991-07-08</datum_rodenja>
+    <pozicija>Centralni bek</pozicija>
+    <trenutni_klub>Liverpool</trenutni_klub>
+    <prosli_klubovi>
+      <klub>Groningen</klub>
+      <klub>Celtic</klub>
+      <klub>Southampton</klub>
+    </prosli_klubovi>
+    <statistika>
+      <broj_golova>23</broj_golova>
+      <broj_asistencija>12</broj_asistencija>
+      <broj_odigranih_utakmica>270</broj_odigranih_utakmica>
+    </statistika>
+  </igrac>
+  <igrac>
+    <ime>Manuel</ime>
+    <prezime>Neuer</prezime>
+    <datum_rodenja>1986-03-27</datum_rodenja>
+    <pozicija>Vratar</pozicija>
+    <trenutni_klub>Bayern Munchen</trenutni_klub>
+    <prosli_klubovi>
+      <klub>Schalke 04</klub>
+    </prosli_klubovi>
+    <statistika>
+      <broj_golova>0</broj_golova>
+      <broj_asistencija>36</broj_asistencija>
+      <broj_odigranih_utakmica>345</broj_odigranih_utakmica>
+    </statistika>
+  </igrac>
+   <igrac>
+    <ime>Kylian</ime>
+    <prezime>Mbappé</prezime>
+    <datum_rodenja>1998-12-20</datum_rodenja>
+    <pozicija>Napadač</pozicija>
+    <trenutni_klub>Paris Saint-Germain</trenutni_klub>
+    <prosli_klubovi>
+      <klub>Monaco</klub>
+    </prosli_klubovi>
+    <statistika>
+      <broj_golova>288</broj_golova>
+      <broj_asistencija>126</broj_asistencija>
+      <broj_odigranih_utakmica>373</broj_odigranih_utakmica>
+    </statistika>
+  </igrac>
+  <igrac>
+    <ime>Robert</ime>
+    <prezime>Lewandowski</prezime>
+    <datum_rodenja>1988-08-21</datum_rodenja>
+    <pozicija>Napadač</pozicija>
+    <trenutni_klub>Barcelona</trenutni_klub>
+    <prosli_klubovi>
+      <klub>Znicz Pruszkow</klub>
+      <klub>Lech Poznanj</klub>
+      <klub>Borussia Dortmund</klub>
+      <klub>Bayern Munchen</klub>
+    </prosli_klubovi>
+    <statistika>
+      <broj_golova>483</broj_golova>
+      <broj_asistencija>124</broj_asistencija>
+      <broj_odigranih_utakmica>586</broj_odigranih_utakmica>
+    </statistika>
+  </igrac>
+</igraci>

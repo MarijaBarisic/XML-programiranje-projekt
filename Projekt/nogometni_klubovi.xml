@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nogometni_klubovi>
+  <liga naziv="La Liga">
+    <nogometni_klub>
+      <naziv_kluba>Barcelona</naziv_kluba>
+      <grad>Barcelona</grad>
+      <drzava>Španjolska</drzava>
+      <godina_osnovanja>1899</godina_osnovanja>
+      <stadion>
+        <naziv_stadiona>Camp Nou</naziv_stadiona>
+        <kapacitet>99354</kapacitet>
+      </stadion>
+    </nogometni_klub>
+    <nogometni_klub>
+      <naziv_kluba>Real Madrid</naziv_kluba>
+      <grad>Madrid</grad>
+      <drzava>Španjolska</drzava>
+      <godina_osnovanja>1902</godina_osnovanja>
+      <stadion>
+        <naziv_stadiona>Santiago Bernabeu</naziv_stadiona>
+        <kapacitet>81044</kapacitet>
+      </stadion>
+    </nogometni_klub>
+    <nogometni_klub>
+      <naziv_kluba>Sevilla</naziv_kluba>
+      <grad>Sevilla</grad>
+      <drzava>Španjolska</drzava>
+      <godina_osnovanja>1905</godina_osnovanja>
+      <stadion>
+        <naziv_stadiona>Ramon Sanchez Pizjuan</naziv_stadiona>
+        <kapacitet>42714</kapacitet>
+      </stadion>
+    </nogometni_klub>
+  </liga>
+  <liga naziv="FA Premier League">
+    <nogometni_klub>
+      <naziv_kluba>Manchester City</naziv_kluba>
+      <grad>Manchester</grad>
+      <drzava>Ujedinjeno Kraljevstvo</drzava>
+      <godina_osnovanja>1880</godina_osnovanja>
+      <stadion>
+        <naziv_stadiona>City of Manchester Stadium</naziv_stadiona>
+        <kapacitet>53400</kapacitet>
+      </stadion>
+    </nogometni_klub>
+    <nogometni_klub>
+      <naziv_kluba>Liverpool</naziv_kluba>
+      <grad>Liverpool</grad>
+      <drzava>Ujedinjeno Kraljevstvo</drzava>
+      <godina_osnovanja>1892</godina_osnovanja>
+      <stadion>
+        <naziv_stadiona>Anfield</naziv_stadiona>
+        <kapacitet>60725</kapacitet>
+      </stadion>
+    </nogometni_klub>
+    <nogometni_klub>
+      <naziv_kluba>Chelsea</naziv_kluba>
+      <grad>London</grad>
+      <drzava>Ujedinjeno Kraljevstvo</drzava>
+      <godina_osnovanja>1905</godina_osnovanja>
+      <stadion>
+        <naziv_stadiona>Stamford Bridge</naziv_stadiona>
+        <kapacitet>40343</kapacitet>
+      </stadion>
+    </nogometni_klub>
+  </liga>
+  <liga naziv="SuperSport Hrvatska nogometna liga">
+    <nogometni_klub>
+      <naziv_kluba>Dinamo Zagreb</naziv_kluba>
+      <grad>Zagreb</grad>
+      <drzava>Hrvatska</drzava>
+      <godina_osnovanja>1911</godina_osnovanja>
+      <stadion>
+        <naziv_stadiona>Maksimir</naziv_stadiona>
+        <kapacitet>24851</kapacitet>
+      </stadion>
+    </nogometni_klub>
+    <nogometni_klub>
+      <naziv_kluba>Hajduk Split</naziv_kluba>
+      <grad>Split</grad>
+      <drzava>Hrvatska</drzava>
+      <godina_osnovanja>1911</godina_osnovanja>
+      <stadion>
+        <naziv_stadiona>Gradski stadion Poljud</naziv_stadiona>
+        <kapacitet>33987</kapacitet>
+      </stadion>
+    </nogometni_klub>
+    <nogometni_klub>
+      <naziv_kluba>Rijeka</naziv_kluba>
+      <grad>Rijeka</grad>
+      <drzava>Hrvatska</drzava>
+      <godina_osnovanja>1906</godina_osnovanja>
+      <stadion>
+        <naziv_stadiona>Stadion Rujevica</naziv_stadiona>
+        <kapacitet>8279</kapacitet>
+      </stadion>
+    </nogometni_klub>
+  </liga>
+</nogometni_klubovi>
